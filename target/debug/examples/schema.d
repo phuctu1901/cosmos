@@ -1,0 +1,1 @@
+/home/ftu191/Videos/cosmons/target/debug/examples/schema: /home/ftu191/Videos/cosmons/examples/schema.rs /home/ftu191/Videos/cosmons/src/contract.rs /home/ftu191/Videos/cosmons/src/error.rs /home/ftu191/Videos/cosmons/src/lib.rs /home/ftu191/Videos/cosmons/src/msg.rs /home/ftu191/Videos/cosmons/src/package.rs /home/ftu191/Videos/cosmons/src/state.rs

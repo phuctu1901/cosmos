@@ -1,0 +1,1 @@
+/home/ftu191/Videos/cosmons/target/wasm32-unknown-unknown/release/libcosmons.rlib: /home/ftu191/Videos/cosmons/src/contract.rs /home/ftu191/Videos/cosmons/src/error.rs /home/ftu191/Videos/cosmons/src/lib.rs /home/ftu191/Videos/cosmons/src/msg.rs /home/ftu191/Videos/cosmons/src/package.rs /home/ftu191/Videos/cosmons/src/state.rs

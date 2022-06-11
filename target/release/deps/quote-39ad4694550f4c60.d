@@ -1,0 +1,13 @@
+/home/ftu191/Videos/cosmons/target/release/deps/quote-39ad4694550f4c60.rmeta: /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/home/ftu191/Videos/cosmons/target/release/deps/libquote-39ad4694550f4c60.rlib: /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/home/ftu191/Videos/cosmons/target/release/deps/quote-39ad4694550f4c60.d: /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs:
+/home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs:
+/home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs:
+/home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs:
+/home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs:
+/home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs:
+/home/ftu191/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs:
